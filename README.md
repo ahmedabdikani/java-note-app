@@ -1,4 +1,4 @@
 # java-note-app
 <h4>simple android note app</h4>
 
-<img src="https://github.com/ahmedabdikani/java-note-app/app-screens/screen1.jpg" height="400px" width="200px"/>      <img src="https://github.com/ahmedabdikani/java-note-app/app-screens/screen2.jpg" height="400px" width="200px"/>
+<img src="https://github.com/ahmedabdikani/java-note-app/blob/app-screens/screen1.jpg" height="400px" width="200px"/>      <img src="https://github.com/ahmedabdikani/java-note-app/app-screens/blob/screen2.jpg" height="400px" width="200px"/>
